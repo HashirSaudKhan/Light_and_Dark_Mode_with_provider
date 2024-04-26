@@ -1,16 +1,5 @@
-# light_dark_mode
+# Light and Dark Theme with Provider
 
-A new Flutter project.
+### [Click here to watch the video of project tutorial.](https://youtu.be/-jdtfJe_sII?si=cRoieSepvw5-930D)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![MKOKOLDT](https://github.com/HashirSaudKhan/Light_and_Dark_Mode_with_provider/assets/93030144/19fc6e96-8391-4c07-a649-e166cd42c2a9)
